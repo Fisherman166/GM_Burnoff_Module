@@ -1,0 +1,20 @@
+Reference, Quantity, Value, Footprint,MPN,Price,Total Price,Part Link
+C1 C2 C3 C5 C8 C10 C11 ,7,0.1uF,Capacitor_THT:C_Rect_L4.0mm_W2.5mm_P2.50mm,K104K15X7RF53L2 ,$0.28,$1.96,https://www.digikey.com/en/products/detail/vishay-beyschlag-draloric-bc-components/K104K15X7RF53L2/2820506
+C4 C9 ,2,100uF,Capacitor_THT:CP_Radial_D8.0mm_P3.50mm,50ZL100MEFC8X11.5,$0.44,$0.88,https://www.digikey.com/en/products/detail/rubycon/50ZL100MEFC8X11-5/3563372
+C6 C7 ,2,2.2uF,Capacitor_THT:CP_Radial_D5.0mm_P2.00mm,UPW1H2R2MDD ,$0.30,$0.60,https://www.digikey.com/en/products/detail/nichicon/UPW1H2R2MDD/589628
+D1 D2 D4 D5 ,4,D,Diode_THT:D_DO-41_SOD81_P7.62mm_Horizontal,1N4007G-T,$0.30,$1.20,https://www.digikey.com/en/products/detail/diodes-incorporated/1N4007G-T/160652
+D3 D6 ,2,D_Schottky,Diode_THT:D_DO-201AD_P12.70mm_Horizontal,SB5100-T,$0.74,$1.48,https://www.digikey.com/en/products/detail/diodes-incorporated/SB5100-T/278636
+Q2 Q4 Q6 ,3,Q_PMOS_GDS,Package_TO_SOT_THT:TO-251-3_Vertical,FQU11P06TU ,$0.92,$2.76,https://www.digikey.com/en/products/detail/onsemi/FQU11P06TU/1053688?s=N4IgTCBcDaIGIEUCqBGFAFADANgCpIFoA5AERAF0BfIA
+Q1 Q3 Q5 ,3,Q_NMOS_SGD,digikey-footprints:TO-92-3_Formed_Leads,2N7000TA ,$0.46,$1.38,https://www.digikey.com/en/products/detail/onsemi/2N7000TA/3042479?s=N4IgTCBcDa4HIHYAMKAqBBAwqgtHAIiALoC%2BQA
+R12 ,1,39k,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,RNMF14FTC39K0 ,$0.10,$0.10,https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RNMF14FTC39K0/2617339?s=N4IgTCBcDaIEoDkCyAxAjAFhQFQMIGYBOAaQAYQBdAXyA
+R1 R2 R3 R4 R5 R6 R10 R11 ,8,10k,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,RNF14FTD10K0 ,$0.10,$0.80,https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RNF14FTD10K0/1706596
+R7 ,1,47k,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,RNF14FTD47K0 ,$0.10,$0.10,https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RNF14FTD47K0/1682294?s=N4IgTCBcDaIEoDkBiBGALEgKgETQdgGkAGEAXQF8g
+R8 ,1,560,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,RNMF14FTC560R ,$0.10,$0.10,https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RNMF14FTC560R/2617360?s=N4IgTCBcDaIEoDkCyAxAjAFhQFQMIFYA2ABjhAF0BfIA
+R9 ,1,1k,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,RNF14FTD1K00 ,$0.10,$0.10,https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RNF14FTD1K00/1706678
+U1 U5 ,2,NA555P,Package_DIP:DIP-8_W7.62mm,NA555P,$0.50,$1.00,https://www.digikey.com/en/products/detail/texas-instruments/NA555P/1571935
+U2 ,1,LP2950-5.0_TO92,digikey-footprints:TO-92-3,LP2950CZ-5.0/NOPB ,$0.93,$0.93,https://www.digikey.com/en/products/detail/texas-instruments/LP2950CZ-5-0-NOPB/148222?s=N4IgTCBcDaIDIAUwE4CsAGAwgLQLSoDp0B6AOQHkEAhEAXQF8g
+U3 ,1,LM2903,Package_DIP:DIP-8_W7.62mm,LM2903P ,$0.42,$0.42,https://www.digikey.com/en/products/detail/texas-instruments/LM2903P/372786
+U4 ,1,CD4082BE,footprints:CD4082BE,CD4082BE ,$0.58,$0.58,https://www.digikey.com/en/products/detail/texas-instruments/CD4082BE/67325
+,,,,,,,
+,,,,,,,
+,,,,,Total Parts Cost:,$14.39,
